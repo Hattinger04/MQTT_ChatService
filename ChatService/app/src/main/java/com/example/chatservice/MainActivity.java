@@ -1,4 +1,4 @@
-package at.ac.htlinn.androidexamples.mqtt;
+package com.example.chatservice;
 
 import android.os.Bundle;
 import android.util.Log;
